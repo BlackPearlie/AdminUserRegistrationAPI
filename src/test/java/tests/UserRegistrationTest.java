@@ -14,10 +14,7 @@ public class UserRegistrationTest {
 
     static String registeredEmail;
 
-//    @BeforeClass
-//    public void setup() throws SQLException {
-//        DatabaseConnection.dbConnection();
-//    }
+
     @Test
     public void adminLoginTest(){
 
